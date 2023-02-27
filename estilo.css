@@ -71,7 +71,7 @@ html{
     padding-bottom: 130px;
 }
 .inicio .contenido-seccion .info h1{
-    font-size: 3rem;
+    font-size: 5rem;
     letter-spacing: 5px;
 }
 .inicio .contenido-seccion .info h2{
@@ -123,12 +123,19 @@ html{
     margin: auto;
     padding: 0 10px;
 }
+.informacionpersonal .titulo-seccion{
+    font-size: 35px;
+}  
+.informacionpersonal .contenido-seccion p{
+    font-size: 22px;
+}
 .informacionpersonal .contenido-seccion h3{
     text-transform: uppercase;
     font-size: 30px;
 }
 .informacionpersonal .contenido-seccion .especial{
     color: #940253;
+    font-size: 25px;
     font-weight: bold;
     margin-top: 15px;
 }
